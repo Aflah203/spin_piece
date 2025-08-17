@@ -5,33 +5,40 @@ My first open source "" app .
 
 ## Getting Started
 
-A flutter app with spin wheel to lotterify the chest piece or leg piece of chicken mandhi,etc  (Done for Fun).
+# A flutter app with spin wheel to lotterify the chest piece or leg piece of chicken mandhi,etc  (Done for Fun).
 
-![1755431327805](https://github.com/user-attachments/assets/b0e406ff-a470-4d5b-802e-544552cae740)
-
-**Enter people's name and chicken pieces!
-**
-
-![1755431327799](https://github.com/user-attachments/assets/3f9d0ef6-e8a0-4770-b8d1-ff38e976e874)
-
-**Go to spin wheel Screen to spin and Draw.
-**
+<img width="581" height="1295" alt="imaoge1" src="https://github.com/user-attachments/assets/dc8f17d6-6f84-4ac9-ab49-e655bb91b5b2" />
 
 
-![1755431327792](https://github.com/user-attachments/assets/b67bc3bf-2e15-4bda-800c-c86960e9d1af)
 
-**Spin for each person and see result below.
-**
+## **Enter people's name and chicken pieces!**
 
 
-![1755431327786](https://github.com/user-attachments/assets/197d327d-ed46-4c08-87e3-68ec56acdf11)
 
-**Final result will be show after finishing the compelete spining. **NO MORE FIGHT OVER CHICKEN PIECE!** 
-**
+<img width="574" height="1280" alt="image1-93" src="https://github.com/user-attachments/assets/b7026867-b764-420a-b5be-e13e418e0ee6" />
 
-Stay calm 
-and 
-Eat Mandhi
 
-Thank You!   
+
+## **Go to spin wheel Screen to spin and Draw.**
+
+
+
+<img width="574" height="1280" alt="image1" src="https://github.com/user-attachments/assets/3b8b5159-4e93-4c4e-aadc-83979187510d" />
+
+
+
+## **Spin for each person and see result below.**
+
+
+
+
+<img width="581" height="1295" alt="image1-9" src="https://github.com/user-attachments/assets/ee539b6a-8ca9-46af-b784-0c85ab1535d6" />
+
+
+## **Final result will be show after finishing the compelete spining. NO MORE FIGHT OVER CHICKEN PIECE!**
+
+
+### **Stay calm and Eat Mandhi**
+
+# Thank You!   
 
