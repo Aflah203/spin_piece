@@ -286,7 +286,7 @@ class _WheelPageState extends State<WheelPage> {
                       color: Theme.of(context).colorScheme.secondary,
                       borderRadius: BorderRadius.circular(16),
                       border: Border.all(
-                        color: Theme.of(context).colorScheme.primary,
+                        color: Theme.of(context).colorScheme.secondary,
                         width: 2,
                       ),
                     ),
@@ -304,7 +304,9 @@ class _WheelPageState extends State<WheelPage> {
                               style: TextStyle(
                                 fontSize: 20,
                                 fontWeight: FontWeight.bold,
-                                color: Theme.of(context).colorScheme.primary,
+                                color: Theme.of(
+                                  context,
+                                ).colorScheme.onSecondary,
                               ),
                             ),
                           ),
@@ -314,7 +316,7 @@ class _WheelPageState extends State<WheelPage> {
                           style: TextStyle(
                             fontSize: 18,
                             fontWeight: FontWeight.bold,
-                            color: Theme.of(context).colorScheme.primary,
+                            color: Theme.of(context).colorScheme.onSecondary,
                           ),
                         ),
                         const Spacer(),
@@ -326,7 +328,7 @@ class _WheelPageState extends State<WheelPage> {
                             color: Colors.white,
                             borderRadius: BorderRadius.circular(14),
                             border: Border.all(
-                              color: Theme.of(context).colorScheme.primary,
+                              color: Theme.of(context).colorScheme.onSecondary,
                               width: 0,
                             ),
                             image: DecorationImage(

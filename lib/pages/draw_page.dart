@@ -28,7 +28,7 @@ class _DrawPageState extends State<DrawPage> {
       appBar: AppBar(
         title: Center(
           child: Text(
-            'Spin App',
+            'Spin For Piece ✌️',
             style: TextStyle(
               fontSize: 28,
               fontWeight: FontWeight.bold,

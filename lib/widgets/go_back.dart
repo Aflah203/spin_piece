@@ -17,13 +17,13 @@ class GoBack extends StatelessWidget {
       child: Container(
         width: double.infinity,
         height: 150,
-        padding: EdgeInsets.all(4),
-        margin: EdgeInsets.only(top: 12, bottom: 12),
+        padding: const EdgeInsets.all(4),
+        margin: const EdgeInsets.only(top: 12, bottom: 12),
         child: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Spacer(),
+              const Spacer(),
               Text(
                 message,
                 style: TextStyle(
@@ -32,24 +32,24 @@ class GoBack extends StatelessWidget {
                   color: Theme.of(context).colorScheme.primary,
                 ),
               ),
-              Spacer(),
+              const Spacer(),
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Container(
-                    margin: EdgeInsets.only(right: 16),
+                    margin: const EdgeInsets.only(right: 16),
                     height: 50,
                     width: 100,
                     child: OutlinedButton(
                       style: OutlinedButton.styleFrom(
                         foregroundColor: Colors.blue,
-                        side: BorderSide(color: Colors.blue, width: 2),
+                        side: const BorderSide(color: Colors.blue, width: 2),
                       ),
                       onPressed: () {
                         Navigator.of(context).pop();
                         FocusScope.of(context).unfocus();
                       },
-                      child: Text(
+                      child: const Text(
                         'No',
                         style: TextStyle(
                           fontSize: 18,
@@ -59,13 +59,13 @@ class GoBack extends StatelessWidget {
                     ),
                   ),
                   Container(
-                    margin: EdgeInsets.only(right: 16),
+                    margin: const EdgeInsets.only(right: 16),
                     height: 50,
                     width: 100,
                     child: OutlinedButton(
                       style: OutlinedButton.styleFrom(
                         foregroundColor: Colors.red,
-                        side: BorderSide(color: Colors.red, width: 2),
+                        side: const BorderSide(color: Colors.red, width: 2),
                       ),
                       onPressed: () {
                         Provider.of<WheelDataProvider>(
@@ -80,7 +80,7 @@ class GoBack extends StatelessWidget {
                           (Route<dynamic> route) => false,
                         );
                       },
-                      child: Text(
+                      child: const Text(
                         'yes',
                         style: TextStyle(
                           fontSize: 18,
@@ -91,7 +91,7 @@ class GoBack extends StatelessWidget {
                   ),
                 ],
               ),
-              Spacer(),
+              const Spacer(),
             ],
           ),
         ),

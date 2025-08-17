@@ -38,7 +38,7 @@ class _MyAppState extends State<MyApp> {
           return MediaQuery(
             data: updatedMediaQuery,
             child: MaterialApp(
-              title: 'Spin App',
+              title: 'Mandhi App',
               theme: ThemeData(
                 colorScheme: const ColorScheme(
                   primary: Color(0xFF005BA7),
