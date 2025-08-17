@@ -2,9 +2,11 @@
 
 My first open source "" app . 
 
-Thank You!   
 
 ## Getting Started
 
-A flutter app for spin wheel and lotterify the chest piece or leg piece of chicken mandhi,etc 
+A flutter app with spin wheel to lotterify the chest piece or leg piece of chicken mandhi,etc  (Done for Fun).
+
+
+Thank You!   
 
